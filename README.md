@@ -31,9 +31,5 @@ and Machine Learning.
 - Python
 
 ## Goal
-
-Learn, practice, build and improve
-one step at a time!
-
 Learn, practice, build and improve
 one step at a time!

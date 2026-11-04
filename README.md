@@ -1,4 +1,4 @@
-# Python Learning Journey 🐍
+# Python Learning Journey 
 
 Welcome to my Python learning journey!
 
@@ -29,6 +29,22 @@ and Machine Learning.
 - Google Colab
 - GitHub
 - Python
+- Notion
+
+## Mini Projects
+
+### 01. Student Grade Calculator
+
+A beginner-friendly Python project that collects student details and subject marks, calculates total and average marks, assigns grades, and determines PASS/FAIL status.
+
+Project Folder: Student-Grade-Calculator
+Technologies: Python, Google Colab
+
+### Tools
+- Python
+- Google Colab
+- GitHub
+- Notion
 
 ## Goal
 Learn, practice, build and improve
